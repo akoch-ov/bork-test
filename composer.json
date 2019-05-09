@@ -1,0 +1,10 @@
+{
+  "name": "Bork/TestDeliveryTask",
+  "autoload": {
+    "psr-4": {
+      "TestDeliveryTask\\": "src/",
+      "External\\BirdDelivery\\": "external/Bird/",
+      "External\\TurtleDelivery\\": "external/Turtle/"
+    }
+  }
+}
